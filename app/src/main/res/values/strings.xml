@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TeleHealth</string>
+
+    <string-array name="names">
+        <item>Please select a value</item>
+        <item>د. خالد الماجد</item>
+        <item>د. مها الأيوبي</item>
+        <item>د. سالم عبد الله</item>
+        <item>د. يلمان آشراي</item>
+    </string-array>
+</resources>
